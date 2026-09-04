@@ -7,7 +7,7 @@ about:
   head: 
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:20:59Z
+  collectedAt: 2026-09-04T21:17:27Z
 timeline:
   created: 
   lastCommit: 
@@ -80,6 +80,114 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `bridgecrewio` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
   - Although you appear to have the correct authorization credentials, the `bridgecrewio` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
+path: /home/runner/.x-repo/github.com/bridgecrewio/checkov
+collectedAt: 2026-09-04T21:17:34Z
+loc:
+  Json:
+    code: 366552
+    comments: 0
+    blanks: 319
+    files: 942
+  Python:
+    code: 193608
+    comments: 7128
+    blanks: 45039
+    files: 4596
+  Hcl:
+    code: 105229
+    comments: 3459
+    blanks: 20673
+    files: 1562
+  Yaml:
+    code: 54272
+    comments: 1483
+    blanks: 1300
+    files: 1985
+  Css:
+    code: 9079
+    comments: 311
+    blanks: 1435
+    files: 4
+  TypeScript:
+    code: 4678
+    comments: 358
+    blanks: 796
+    files: 214
+  Xml:
+    code: 1228
+    comments: 0
+    blanks: 0
+    files: 7
+  Dockerfile:
+    code: 583
+    comments: 9
+    blanks: 72
+    files: 69
+  Svg:
+    code: 465
+    comments: 0
+    blanks: 0
+    files: 13
+  Sh:
+    code: 391
+    comments: 85
+    blanks: 111
+    files: 8
+  Toml:
+    code: 122
+    comments: 1
+    blanks: 15
+    files: 1
+  JavaScript:
+    code: 65
+    comments: 40
+    blanks: 4
+    files: 11
+  Pan:
+    code: 64
+    comments: 0
+    blanks: 6
+    files: 2
+  Batch:
+    code: 38
+    comments: 1
+    blanks: 5
+    files: 1
+  Java:
+    code: 35
+    comments: 3
+    blanks: 10
+    files: 1
+  Ini:
+    code: 23
+    comments: 1
+    blanks: 7
+    files: 3
+  MsBuild:
+    code: 18
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 13
+    comments: 1
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 24776
+    blanks: 4177
+    files: 100
+  Text:
+    code: 0
+    comments: 38
+    blanks: 4
+    files: 8
+total:
+  code: 741689
+  comments: 37778
+  blanks: 74264
+  files: 9529
 ---
 date: "2022-11-28"
 repo:
