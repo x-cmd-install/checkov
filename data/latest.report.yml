@@ -5,7 +5,7 @@ about:
   head: 
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T01:37:52Z
+  collectedAt: 2026-09-08T04:29:01Z
 timeline:
   created: 
   lastCommit: 
@@ -79,7 +79,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `bridgecrewio` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/bridgecrewio/checkov
-collectedAt: 2026-09-08T01:38:08Z
+collectedAt: 2026-09-08T04:29:29Z
 loc:
   Json:
     code: 366552
