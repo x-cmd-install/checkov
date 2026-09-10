@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:23:12Z
+  collectedAt: 2026-09-10T23:26:13Z
 timeline:
   created: 
   lastCommit: 
@@ -29,7 +29,7 @@ recent:
     mergedPR: 7
     openPR: 16
     closedIssue: 0
-    openIssue: 11
+    openIssue: 12
     commit: 0
   last60d:
     since: 2026-07-12
@@ -37,7 +37,7 @@ recent:
     mergedPR: 9
     openPR: 41
     closedIssue: 0
-    openIssue: 19
+    openIssue: 20
     commit: 0
   last90d:
     since: 2026-06-12
@@ -45,7 +45,7 @@ recent:
     mergedPR: 16
     openPR: 54
     closedIssue: 1
-    openIssue: 26
+    openIssue: 27
     commit: 0
   last180d:
     since: 2026-03-14
@@ -53,7 +53,7 @@ recent:
     mergedPR: 49
     openPR: 82
     closedIssue: 7
-    openIssue: 51
+    openIssue: 52
     commit: 0
   last360d:
     since: 2025-09-15
@@ -61,7 +61,7 @@ recent:
     mergedPR: 89
     openPR: 89
     closedIssue: 60
-    openIssue: 68
+    openIssue: 69
     commit: 0
   last720d:
     since: 2024-09-20
@@ -69,7 +69,7 @@ recent:
     mergedPR: 283
     openPR: 92
     closedIssue: 253
-    openIssue: 76
+    openIssue: 77
     commit: 0
 total:
   release: 0
@@ -83,7 +83,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `bridgecrewio` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/bridgecrewio/checkov
-collectedAt: 2026-09-10T20:23:27Z
+collectedAt: 2026-09-10T23:26:27Z
 loc:
   Json:
     code: 366552
@@ -177,8 +177,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 24776
-    blanks: 4177
+    comments: 24779
+    blanks: 4180
     files: 100
   Text:
     code: 0
@@ -187,8 +187,8 @@ loc:
     files: 8
 total:
   code: 741718
-  comments: 37781
-  blanks: 74268
+  comments: 37784
+  blanks: 74271
   files: 9529
 ---
 date: "2022-11-28"
