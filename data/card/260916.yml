@@ -374,3 +374,4 @@ checks:
       - 'Warn: pipCommand not pinned by hash: .github/workflows/pr-test.yml:98'
       - 'Warn: pipCommand not pinned by hash: .github/workflows/pr-test.yml:146'
       - 'Info: GitHub-owned GitHubActions are pinned'
+---
