@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-[![x-cmd/install — checkov Code Quality Monitoring Repo Card](https://repo.x-cmd.io/checkov.svg)](https://x-cmd.com/install/checkov)
+[![x-cmd/install — checkov Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/checkov.svg)](https://x-cmd.com/install/checkov)
 
 ## Install
 
@@ -49,12 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 6 | 16 | 1 | 11 | 0 |
-| last60d | 2026-07-24 | 0 | 12 | 34 | 1 | 18 | 0 |
-| 90d | 2026-06-24 | 0 | 16 | 54 | 1 | 28 | 0 |
-| last180d | 2026-03-26 | 0 | 46 | 80 | 6 | 49 | 0 |
-| 360d | 2025-09-27 | 0 | 91 | 92 | 57 | 68 | 0 |
-| last720d | 2024-10-02 | 0 | 342 | 95 | 243 | 76 | 0 |
+| 30d | 2026-08-24 | 0 | 5 | 17 | 0 | 12 | 0 |
+| last60d | 2026-07-25 | 0 | 12 | 35 | 1 | 19 | 0 |
+| 90d | 2026-06-25 | 0 | 16 | 55 | 1 | 29 | 0 |
+| last180d | 2026-03-27 | 0 | 45 | 82 | 5 | 50 | 0 |
+| 360d | 2025-09-28 | 0 | 89 | 94 | 57 | 69 | 0 |
+| last720d | 2024-10-03 | 0 | 341 | 97 | 241 | 77 | 0 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for checkov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:52:58Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:39:18Z._
