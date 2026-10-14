@@ -12,12 +12,12 @@ x install checkov
 
 ## Code insight
 
-Total: **738,311** lines of code across **9097** files in the top 5 languages.
+Total: **738,369** lines of code across **9097** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 367,192 | 0 | 319 | 947 |
-| Python | 194,769 | 7,254 | 45,264 | 4598 |
+| Python | 194,827 | 7,257 | 45,267 | 4598 |
 | Hcl | 105,275 | 3,467 | 20,685 | 1563 |
 | Yaml | 54,273 | 1,483 | 1,300 | 1985 |
 | Css | 9,079 | 311 | 1,435 | 4 |
@@ -49,12 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 12 | 31 | 1 | 11 | 0 |
-| last60d | 2026-08-14 | 0 | 20 | 45 | 3 | 20 | 0 |
-| 90d | 2026-07-15 | 0 | 23 | 64 | 3 | 28 | 0 |
-| last180d | 2026-04-16 | 0 | 45 | 96 | 6 | 49 | 0 |
-| 360d | 2025-10-18 | 0 | 90 | 113 | 53 | 70 | 0 |
-| last720d | 2024-10-23 | 0 | 335 | 116 | 236 | 77 | 0 |
+| 30d | 2026-09-14 | 0 | 13 | 29 | 1 | 10 | 0 |
+| last60d | 2026-08-15 | 0 | 21 | 44 | 3 | 19 | 0 |
+| 90d | 2026-07-16 | 0 | 24 | 61 | 3 | 27 | 0 |
+| last180d | 2026-04-17 | 0 | 45 | 95 | 6 | 49 | 0 |
+| 360d | 2025-10-19 | 0 | 91 | 112 | 53 | 70 | 0 |
+| last720d | 2024-10-24 | 0 | 335 | 115 | 236 | 77 | 0 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for checkov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:45:25Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:48:18Z._
