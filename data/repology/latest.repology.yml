@@ -2,8 +2,8 @@
   srcname: checkov
   binname: checkov
   visiblename: checkov
-  version: 3.3.22.r0.g4ef6eb50e3
-  origversion: 3.3.22.r0.g4ef6eb50e3-1
+  version: 3.3.30.r1.g811d068790
+  origversion: 3.3.30.r1.g811d068790-1
   status: outdated
   summary: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages.
   licenses:
