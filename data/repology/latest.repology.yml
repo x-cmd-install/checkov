@@ -11,7 +11,7 @@
 - repo: homebrew
   srcname: checkov
   visiblename: checkov
-  version: 3.3.30
+  version: 3.4.0
   origversion: null
   status: newest
   summary: Prevent cloud misconfigurations during build-time for IaC tools
