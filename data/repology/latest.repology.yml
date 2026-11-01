@@ -1,20 +1,15 @@
-- repo: blackarch
-  srcname: checkov
-  binname: checkov
-  visiblename: checkov
-  version: 3.3.30.r1.g811d068790
-  origversion: 3.3.30.r1.g811d068790-1
-  status: outdated
-  summary: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages.
-  licenses:
-    - Apache
-- repo: homebrew
+- repo: nix_stable_25_11
   srcname: checkov
   visiblename: checkov
-  version: 3.4.0
+  version: 3.2.495
   origversion: null
-  status: newest
-  summary: Prevent cloud misconfigurations during build-time for IaC tools
+  status: outdated
+  summary: Static code analysis tool for infrastructure-as-code
+  maintainers:
+    - anhdle14@icloud.com
+    - mail@fabian-affolter.ch
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: checkov
   visiblename: checkov
@@ -27,6 +22,23 @@
     - mail@fabian-affolter.ch
   licenses:
     - Apache-2.0
+- repo: blackarch
+  srcname: checkov
+  binname: checkov
+  visiblename: checkov
+  version: 3.4.0.r1.g3bdc054cfb
+  origversion: 3.4.0.r1.g3bdc054cfb-1
+  status: outdated
+  summary: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages.
+  licenses:
+    - Apache
+- repo: homebrew
+  srcname: checkov
+  visiblename: checkov
+  version: 3.4.0
+  origversion: null
+  status: newest
+  summary: Prevent cloud misconfigurations during build-time for IaC tools
 - repo: nix_stable_24_11
   srcname: checkov
   visiblename: checkov
@@ -43,18 +55,6 @@
   srcname: checkov
   visiblename: checkov
   version: 3.2.416
-  origversion: null
-  status: outdated
-  summary: Static code analysis tool for infrastructure-as-code
-  maintainers:
-    - anhdle14@icloud.com
-    - mail@fabian-affolter.ch
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: checkov
-  visiblename: checkov
-  version: 3.2.495
   origversion: null
   status: outdated
   summary: Static code analysis tool for infrastructure-as-code
