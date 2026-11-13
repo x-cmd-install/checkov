@@ -12,12 +12,12 @@ x install checkov
 
 ## Code insight
 
-Total: **739,010** lines of code across **9101** files in the top 5 languages.
+Total: **739,052** lines of code across **9101** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 367,192 | 0 | 319 | 947 |
-| Python | 195,468 | 7,286 | 45,401 | 4602 |
+| Python | 195,510 | 7,286 | 45,413 | 4602 |
 | Hcl | 105,275 | 3,467 | 20,685 | 1563 |
 | Yaml | 54,273 | 1,483 | 1,300 | 1985 |
 | Css | 9,079 | 311 | 1,435 | 4 |
@@ -49,12 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 5 | 29 | 1 | 21 | 0 |
-| last60d | 2026-09-13 | 0 | 19 | 57 | 2 | 32 | 0 |
-| 90d | 2026-08-14 | 0 | 27 | 71 | 4 | 41 | 0 |
-| last180d | 2026-05-16 | 0 | 46 | 117 | 6 | 61 | 0 |
-| 360d | 2025-11-17 | 0 | 88 | 129 | 50 | 83 | 0 |
-| last720d | 2024-11-22 | 0 | 294 | 131 | 232 | 90 | 0 |
+| 30d | 2026-10-14 | 0 | 6 | 28 | 1 | 21 | 0 |
+| last60d | 2026-09-14 | 0 | 20 | 56 | 2 | 31 | 0 |
+| 90d | 2026-08-15 | 0 | 28 | 71 | 4 | 40 | 0 |
+| last180d | 2026-05-17 | 0 | 47 | 117 | 6 | 61 | 0 |
+| 360d | 2025-11-18 | 0 | 88 | 129 | 50 | 82 | 0 |
+| last720d | 2024-11-23 | 0 | 295 | 131 | 232 | 90 | 0 |
 
 ## Distribution status
 
@@ -62,7 +62,7 @@ Reported by **8** distros on [repology.org](https://repology.org/project/checkov
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `3.4.3` | ✅ latest |
+| Homebrew | `3.4.4` | ✅ latest |
 | Nix unstable | `3.3.26` | ⚠️ outdated |
 
 ## Improve this data
@@ -74,4 +74,4 @@ Install metadata for checkov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:06:12Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:29:38Z._
