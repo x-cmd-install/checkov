@@ -12,12 +12,12 @@ x install checkov
 
 ## Code insight
 
-Total: **739,052** lines of code across **9101** files in the top 5 languages.
+Total: **739,088** lines of code across **9101** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 367,192 | 0 | 319 | 947 |
-| Python | 195,510 | 7,286 | 45,413 | 4602 |
+| Python | 195,546 | 7,287 | 45,422 | 4602 |
 | Hcl | 105,275 | 3,467 | 20,685 | 1563 |
 | Yaml | 54,273 | 1,483 | 1,300 | 1985 |
 | Css | 9,079 | 311 | 1,435 | 4 |
@@ -49,21 +49,21 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 3 | 28 | 2 | 18 | 0 |
-| last60d | 2026-09-20 | 0 | 18 | 62 | 2 | 34 | 0 |
-| 90d | 2026-08-21 | 0 | 25 | 76 | 5 | 43 | 0 |
-| last180d | 2026-05-23 | 0 | 47 | 126 | 7 | 62 | 0 |
-| 360d | 2025-11-24 | 0 | 87 | 136 | 51 | 85 | 0 |
-| last720d | 2024-11-29 | 0 | 284 | 137 | 232 | 93 | 0 |
+| 30d | 2026-10-21 | 0 | 4 | 29 | 2 | 20 | 0 |
+| last60d | 2026-09-21 | 0 | 19 | 64 | 2 | 36 | 0 |
+| 90d | 2026-08-22 | 0 | 26 | 78 | 5 | 45 | 0 |
+| last180d | 2026-05-24 | 0 | 48 | 128 | 7 | 64 | 0 |
+| 360d | 2025-11-25 | 0 | 88 | 137 | 50 | 86 | 0 |
+| last720d | 2024-11-30 | 0 | 285 | 139 | 232 | 95 | 0 |
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/checkov). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/checkov). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `3.4.5` | ✅ latest |
-| Nix unstable | `3.3.26` | ⚠️ outdated |
+| Nix unstable | `3.4.5` | ✅ latest |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for checkov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:13:59Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:20:09Z._
