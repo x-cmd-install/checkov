@@ -49,21 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 9 | 52 | 2 | 31 | 0 |
-| last60d | 2026-09-26 | 0 | 23 | 82 | 2 | 46 | 0 |
-| 90d | 2026-08-27 | 0 | 28 | 101 | 4 | 58 | 0 |
-| last180d | 2026-05-29 | 0 | 51 | 151 | 7 | 76 | 0 |
-| 360d | 2025-11-30 | 0 | 93 | 163 | 49 | 98 | 0 |
-| last720d | 2024-12-05 | 0 | 282 | 165 | 229 | 108 | 0 |
-
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/checkov). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.4.7` | ✅ latest |
-| Nix unstable | `3.4.5` | ⚠️ outdated |
+| 30d | 2026-10-27 | 0 | 9 | 53 | 2 | 35 | 0 |
+| last60d | 2026-09-27 | 0 | 23 | 83 | 2 | 53 | 0 |
+| 90d | 2026-08-28 | 0 | 28 | 102 | 4 | 65 | 0 |
+| last180d | 2026-05-30 | 0 | 51 | 151 | 7 | 83 | 0 |
+| 360d | 2025-12-01 | 0 | 93 | 164 | 49 | 105 | 0 |
+| last720d | 2024-12-06 | 0 | 281 | 166 | 228 | 115 | 0 |
 
 ## Improve this data
 
@@ -74,4 +65,4 @@ Install metadata for checkov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:22:36Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:06:01Z._
