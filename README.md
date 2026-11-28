@@ -49,12 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 9 | 56 | 2 | 34 | 0 |
-| last60d | 2026-09-28 | 0 | 23 | 85 | 2 | 53 | 0 |
-| 90d | 2026-08-29 | 0 | 28 | 105 | 4 | 65 | 0 |
-| last180d | 2026-05-31 | 0 | 50 | 154 | 7 | 83 | 0 |
-| 360d | 2025-12-02 | 0 | 93 | 167 | 49 | 105 | 0 |
-| last720d | 2024-12-07 | 0 | 281 | 169 | 228 | 115 | 0 |
+| 30d | 2026-10-29 | 0 | 9 | 55 | 2 | 34 | 0 |
+| last60d | 2026-09-29 | 0 | 22 | 86 | 2 | 53 | 0 |
+| 90d | 2026-08-30 | 0 | 28 | 107 | 4 | 65 | 0 |
+| last180d | 2026-06-01 | 0 | 50 | 156 | 7 | 83 | 0 |
+| 360d | 2025-12-03 | 0 | 93 | 169 | 46 | 105 | 0 |
+| last720d | 2024-12-08 | 0 | 281 | 171 | 228 | 115 | 0 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for checkov lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:18:25Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:36:26Z._
